@@ -1,0 +1,22 @@
+{
+    "name": "yutani",
+    "displayName": "yutani",
+    "description": "yutani",
+    "version": "0.0.1",
+    "publisher": "markhopcraft",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "yutani",
+                "uiTheme": "vs-dark",
+                "path": "./themes/yutani-color-theme.json"
+            }
+        ]
+    }
+}
